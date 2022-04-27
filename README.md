@@ -1,9 +1,9 @@
-![](https://img.shields.io/github/stars/mookwi/Datensaetze_Vereinzeln.md.svg) 
-![](https://img.shields.io/github/forks/mookwi/Datensaetze_Vereinzeln.md.svg) 
-![](https://img.shields.io/github/tag/mookwi/Datensaetze_Vereinzeln.md.svg) 
-![](https://img.shields.io/github/release/mookwi/Datensaetze_Vereinzeln.md.svg) 
-![](https://img.shields.io/github/issues/mookwi/Datensaetze_Vereinzeln.md.svg) 
-![](https://img.shields.io/bower/v/Datensaetze_Vereinzeln.md.svg)
+![](https://img.shields.io/github/stars/mookwi/Datensaetze_Vereinzeln.svg)
+![](https://img.shields.io/github/forks/mookwi/Datensaetze_Vereinzeln.svg) 
+![](https://img.shields.io/github/tag/mookwi/Datensaetze_Vereinzeln.svg)
+![](https://img.shields.io/github/release/mookwi/Datensaetze_Vereinzeln.svg)
+![](https://img.shields.io/github/issues/mookwi/Datensaetze_Vereinzeln.svg)
+![](https://img.shields.io/bower/v/Datensaetze_Vereinzeln.svg)
 
 # Datensaetze_Vereinzeln
 Vorgabe: Ich habe eine Tabelle "TEMP", die die Datensätze, die ich vereinzeln möchte, beinhaltet. 
