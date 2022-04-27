@@ -1,4 +1,4 @@
-![](https://mookwi.github.io/Datensaetze_Vereinzeln/images/logos/VBA256.png)
+![](https://github.com/mookwi/Datensaetze_Vereinzeln/blob/main/VBA256.png)
 
 ![](https://img.shields.io/github/stars/mookwi/Datensaetze_Vereinzeln.svg)
 ![](https://img.shields.io/github/forks/mookwi/Datensaetze_Vereinzeln.svg) 
