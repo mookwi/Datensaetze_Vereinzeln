@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/issues/mookwi/Datensaetze_Vereinzeln.svg)
 ![](https://img.shields.io/bower/v/Datensaetze_Vereinzeln.svg)
 
-# Datensaetze_Vereinzeln
+### Datensaetze_Vereinzeln
 **Vorgabe:** Ich habe eine Tabelle **"TEMP"**, die die Datensätze, die ich vereinzeln möchte, beinhaltet. 
 In jedem Datensatz gibt es das Feld "Anzahl", welches die zu duplizierende Menge angibt, die der
 Datensatz dupliziert werden soll. Ich habe dazu in ACCESS die originale Tabelle **TEMP** dupliziert und
