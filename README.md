@@ -6,11 +6,11 @@
 ![](https://img.shields.io/bower/v/Datensaetze_Vereinzeln.svg)
 
 # Datensaetze_Vereinzeln
-Vorgabe: Ich habe eine Tabelle "TEMP", die die Datensätze, die ich vereinzeln möchte, beinhaltet. 
+**Vorgabe:** Ich habe eine Tabelle **"TEMP"**, die die Datensätze, die ich vereinzeln möchte, beinhaltet. 
 In jedem Datensatz gibt es das Feld "Anzahl", welches die zu duplizierende Menge angibt, die der
-Datensatz dupliziert werden soll.
+Datensatz dupliziert werden soll. Die neu zu erzeugende Tabelle heißt **"TEMP_NEU"**
 
-Dieser Code Dupliziert mir dann die Datensätze, an Hand der Menge im Feld "Anzahl" und setzt mir
+Dieser Code dupliziert mir dann die Datensätze, an Hand der Menge im Feld "Anzahl" und setzt mir
 beim letzten, neu erzeugten, Datensatz noch ein sogenanntes Bundende.
 
 Dieser Code muss nur bei zusätzlichen oder anderen Feldbezeichnungen angepasst werden. 😄
