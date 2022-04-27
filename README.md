@@ -1,4 +1,13 @@
-# Datensaetze_Vereinzeln
-Datensätze sooft duplizieren, wie es ein Feld innerhalb eines Datensatzes vorgibt
+![](https://img.shields.io/github/stars/mookwi/Datansaetze_Vereinzeln.md.svg) ![](https://img.shields.io/github/forks/mookwi/Datansaetze_Vereinzeln.md.svg) ![](https://img.shields.io/github/tag/mookwi/Datansaetze_Vereinzeln.md.svg) ![](https://img.shields.io/github/release/mookwi/Datansaetze_Vereinzeln.md.svg) ![](https://img.shields.io/github/issues/mookwi/Datansaetze_Vereinzeln.md.svg) ![](https://img.shields.io/bower/v/Datansaetze_Vereinzeln.md.svg)
 
-Dieser Code muss nur bei zusätzlichen oder anderen Feldbezeichnungen angepasst werden.
+# Datensaetze_Vereinzeln
+Vorgabe: Ich habe eine Tabelle "TEMP", die die Datensätze, die ich vereinzeln möchte, beinhaltet. 
+In jedem Datensatz gibt es das Feld "Anzahl", welches die zu duplizierende Menge angibt, die der
+Datensatz dupliziert werden soll.
+
+Dieser Code Dupliziert mir dann die Datensätze, an Hand der Menge im Feld "Anzahl" und setzt mir
+beim letzten, neu erzeugten, Datensatz noch ein sogenanntes Bundende.
+
+Dieser Code muss nur bei zusätzlichen oder anderen Feldbezeichnungen angepasst werden. 😄
+
+Git ist nicht perfekt, ist ja auch mein erster 😊
